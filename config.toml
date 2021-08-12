@@ -1,4 +1,4 @@
-baseurl = "https://p1116214.gitlab.io/novart_test_dev"
+baseurl = "https://kontrabass2018.github.io/novart_test"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
