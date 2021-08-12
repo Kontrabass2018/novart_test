@@ -1,7 +1,7 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://Kontrabass2018.github.io/novart_test"
+baseURL = "https://kontrabass2018.github.io/novart_test"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 themesDir = "../.."
 resourceDir = "../resources"
 
