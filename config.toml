@@ -21,6 +21,7 @@ canonifyurls    = true
 
   fbName = "collectifnovart"
   githubName = "kontrabass2018"
+  igName = "collectif.novart"
   mediumName = ""
 
   logo = ""
