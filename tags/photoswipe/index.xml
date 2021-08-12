@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>photoswipe on Beautiful Hugo</title><link>https://p1116214.gitlab.io/novart_test_dev/tags/photoswipe/</link><description>Recent content in photoswipe on Beautiful Hugo</description><generator>Hugo -- gohugo.io</generator><managingEditor>youremail@domain.com (Some Person)</managingEditor><webMaster>youremail@domain.com (Some Person)</webMaster><lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://p1116214.gitlab.io/novart_test_dev/tags/photoswipe/index.xml" rel="self" type="application/rss+xml"/><item><title>Photoswipe Gallery Sample</title><link>https://p1116214.gitlab.io/novart_test_dev/post/2017-03-20-photoswipe-gallery-sample/</link><pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author><guid>https://p1116214.gitlab.io/novart_test_dev/post/2017-03-20-photoswipe-gallery-sample/</guid><description>&lt;p>Beautiful Hugo adds a few custom shortcodes created by &lt;a href="https://www.liwen.id.au/heg/">Li-Wen Yip&lt;/a> and &lt;a href="https://github.com/GjjvdBurg/HugoPhotoSwipe">Gert-Jan van den Berg&lt;/a> for making galleries with &lt;a href="http://photoswipe.com">PhotoSwipe&lt;/a> .&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>photoswipe on Beautiful Hugo</title><link>https://kontrabass2018.github.io/novart_test/tags/photoswipe/</link><description>Recent content in photoswipe on Beautiful Hugo</description><generator>Hugo -- gohugo.io</generator><managingEditor>youremail@domain.com (Some Person)</managingEditor><webMaster>youremail@domain.com (Some Person)</webMaster><lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://kontrabass2018.github.io/novart_test/tags/photoswipe/index.xml" rel="self" type="application/rss+xml"/><item><title>Photoswipe Gallery Sample</title><link>https://kontrabass2018.github.io/novart_test/post/2017-03-20-photoswipe-gallery-sample/</link><pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author><guid>https://kontrabass2018.github.io/novart_test/post/2017-03-20-photoswipe-gallery-sample/</guid><description>&lt;p>Beautiful Hugo adds a few custom shortcodes created by &lt;a href="https://www.liwen.id.au/heg/">Li-Wen Yip&lt;/a> and &lt;a href="https://github.com/GjjvdBurg/HugoPhotoSwipe">Gert-Jan van den Berg&lt;/a> for making galleries with &lt;a href="http://photoswipe.com">PhotoSwipe&lt;/a> .&lt;/p>
 &lt;p>
 &lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
-&lt;link rel="stylesheet" href="https://p1116214.gitlab.io/novart_test_dev/css/hugo-easy-gallery.css" />
+&lt;link rel="stylesheet" href="https://kontrabass2018.github.io/novart_test/css/hugo-easy-gallery.css" />
 &lt;div class="box" >
 &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 &lt;div class="img" style="background-image: url('/img/hexagon-thumb.jpg');">
-&lt;img itemprop="thumbnail" src="https://p1116214.gitlab.io/novart_test_dev/img/hexagon-thumb.jpg" />
+&lt;img itemprop="thumbnail" src="https://kontrabass2018.github.io/novart_test/img/hexagon-thumb.jpg" />
 &lt;/div>
-&lt;a href="https://p1116214.gitlab.io/novart_test_dev/img/hexagon.jpg" itemprop="contentUrl">&lt;/a>
+&lt;a href="https://kontrabass2018.github.io/novart_test/img/hexagon.jpg" itemprop="contentUrl">&lt;/a>
 &lt;/figure>
 &lt;/div>
 &lt;div class="box" >
 &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 &lt;div class="img" style="background-image: url('/img/sphere-thumb.jpg');">
-&lt;img itemprop="thumbnail" src="https://p1116214.gitlab.io/novart_test_dev/img/sphere-thumb.jpg" alt="Sphere"/>
+&lt;img itemprop="thumbnail" src="https://kontrabass2018.github.io/novart_test/img/sphere-thumb.jpg" alt="Sphere"/>
 &lt;/div>
 &lt;figcaption>
 &lt;p>Sphere&lt;/p>
 &lt;/figcaption>
-&lt;a href="https://p1116214.gitlab.io/novart_test_dev/img/sphere.jpg" itemprop="contentUrl">&lt;/a>
+&lt;a href="https://kontrabass2018.github.io/novart_test/img/sphere.jpg" itemprop="contentUrl">&lt;/a>
 &lt;/figure>
 &lt;/div>
 &lt;div class="box" >
 &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 &lt;div class="img" style="background-image: url('/img/triangle-thumb.jpg');">
-&lt;img itemprop="thumbnail" src="https://p1116214.gitlab.io/novart_test_dev/img/triangle-thumb.jpg" alt="This is a long comment about a triangle"/>
+&lt;img itemprop="thumbnail" src="https://kontrabass2018.github.io/novart_test/img/triangle-thumb.jpg" alt="This is a long comment about a triangle"/>
 &lt;/div>
 &lt;figcaption>
 &lt;p>Triangle&lt;/p>
 &lt;/figcaption>
-&lt;a href="https://p1116214.gitlab.io/novart_test_dev/img/triangle.jpg" itemprop="contentUrl">&lt;/a>
+&lt;a href="https://kontrabass2018.github.io/novart_test/img/triangle.jpg" itemprop="contentUrl">&lt;/a>
 &lt;/figure>
 &lt;/div>
 &lt;/div>
 &lt;script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous">&lt;/script>
-&lt;script src="https://p1116214.gitlab.io/novart_test_dev/js/load-photoswipe.js">&lt;/script>
+&lt;script src="https://kontrabass2018.github.io/novart_test/js/load-photoswipe.js">&lt;/script>
 &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
 &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
 &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous">&lt;/script>
