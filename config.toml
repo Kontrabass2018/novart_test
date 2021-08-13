@@ -44,7 +44,7 @@ canonifyurls    = true
 
 [permalinks]
   post = "/post/:slug/"
-  
+
 [[menu.main]]
   name = "Accueil"
   url = "/"
@@ -70,5 +70,4 @@ canonifyurls    = true
   name = "Categories"
   url = "/categories/"
   weight = 95
-
 
