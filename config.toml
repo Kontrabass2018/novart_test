@@ -42,8 +42,6 @@ canonifyurls    = true
   #casper or caspertwo
   singleViewStyle = "casper"
 
-[permalinks]
-  post = "/post/:slug/"
 
 [[menu.main]]
   name = "Accueil"
