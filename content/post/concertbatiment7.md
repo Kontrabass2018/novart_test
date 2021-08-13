@@ -6,7 +6,7 @@ title: Concert du Bâtiment 7
 weight: 10
 authorAvatar: "img/leonardo.jpg"
 draft: false
-categories: ["concerts"]
+categories: ["concert"]
 ---
 # Quelques photos
 
