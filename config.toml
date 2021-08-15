@@ -38,6 +38,8 @@ canonifyurls    = true
   authorDescription = "Coder, Developer"
 
   pageNotFoundTitle = "404 - Page not found"
+ 
+ customCSS = ["/style.css"]
 
 [permalinks]
   post = "/post/:slug/"
