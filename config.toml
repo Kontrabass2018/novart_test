@@ -67,5 +67,5 @@ canonifyurls    = true
 [[menu.main]]
   name = "Documents"
   url = "/categories/documents/"
-  weight = 98
+  weight = 97
 
