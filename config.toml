@@ -24,7 +24,7 @@ canonifyurls    = true
   igName = "collectif.novart"
   mediumName = ""
 
-  logo = ""
+  logo = "img/logo2_square.png"
   orgName = "Collectif Novart"
   orgWebsite = "https://novartensemble.com"
   orgDescription = "Ensemble de Musique Novart S.E.N.C"
@@ -32,7 +32,7 @@ canonifyurls    = true
   showSupport = true
 
   author = "Leonardo"
-  authorAvatar = "img/logo2_square.png"
+  authorAvatar = "img/leonardo.jpg"
   authorLocation = "Montréal, QC, CAN"
   authorWebsite = "https://kontrabass2018.github.io"
   authorDescription = "Coder, Developer"
@@ -56,7 +56,7 @@ canonifyurls    = true
 
 [[menu.main]]
   name = "Concerts"
-  url = "/Categories/concert"
+  url = "/categories/concert"
   weight = 99
 
 [[menu.main]]
