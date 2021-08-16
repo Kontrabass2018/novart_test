@@ -6,6 +6,9 @@ title: La Charte du Collectif
 weight: 10
 authorAvatar: "img/leonardo.jpg"
 draft: false
+type: "page"
+[menu.main]
+weight: 111
 ---
 
 STATUTS ET RÈGLEMENTS DE
