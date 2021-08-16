@@ -24,7 +24,7 @@ canonifyurls    = true
   igName = "collectif.novart"
   mediumName = ""
 
-  logo = "img/logo2_square.png"
+  logo = ""
   orgName = "Collectif Novart"
   orgWebsite = "https://novartensemble.com"
   orgDescription = "Ensemble de Musique Novart S.E.N.C"
