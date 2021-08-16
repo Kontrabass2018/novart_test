@@ -1,15 +1,14 @@
----
-author: "Leonardo"
-date: 2020-02-02
-linktitle: La Charte du Collectif
-title: La Charte du Collectif
-weight: 10
-authorAvatar: "img/leonardo.jpg"
-draft: false
-type: "page"
++++
+comments = false
+date = "2021-04-06T22:17:00+00:00"
+share = false
+title = "À propos de nous"
+author = "Leonardo"
+draft= false
+type = "page"
 [menu.main]
-weight: 111
----
+weight = 111
++++
 
 STATUTS ET RÈGLEMENTS DE
 L'ENSEMBLE DE MUSIQUE NOVART S.E.N.C.

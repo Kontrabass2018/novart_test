@@ -64,8 +64,4 @@ canonifyurls    = true
   url = "/categories/projet/"
   weight = 98
 
-[[menu.main]]
-  name = "Categories"
-  url = "/categories/"
-  weight = 95
 
