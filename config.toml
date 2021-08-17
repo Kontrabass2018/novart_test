@@ -1,5 +1,5 @@
 baseurl         = "/"
-theme           = "hugo-casper-two"
+theme           = "casper-two-ls"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
@@ -15,7 +15,7 @@ canonifyurls    = true
   description = "Here is a description of your site."
   metaDescription = ""
   googleAnalytics = ""
-  customCSS = []
+  customCSS = ["style.css"]
   RSSLink = ""
 
 
